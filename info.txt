@@ -12,8 +12,8 @@ git - status  ---> red untracked
 git add .   ====> working  to staging
 git commit -m "loginfeatur" =====> staging to local repo
 
-(git config --global user.email "minskoleopc@gmail.commit")
-(git config --global user.name "Minskoleopc")
+(git config --global user.email "ravinabiradar.commit")
+(git config --global user.name "RavinaBiradar)
 
 git commit -m "loginfeatur"
 
@@ -22,6 +22,6 @@ git commit -m "loginfeatur"
 
 
 git branch -M main
-git remote add origin https://github.com/Minskoleopc/gitPr.git
+git remote add origin https://github.com/RavinaBiradar/GITPR.git
 git push -u origin main
 
